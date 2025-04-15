@@ -1,5 +1,5 @@
 # Basic Blockchain in Go
-This project is a simple implementation of a blockchain in Go, created for educational purposes. It demonstrates the fundamental concepts of blockchain technology, including:
+This project is a simple implementation of a blockchain in Go. It demonstrates the fundamental concepts of blockchain technology, including:
 * **Blocks:**  Data structures containing transactions, timestamps, and hashes.
 * **Blockchain:** A chain of blocks linked cryptographically.
 * **Mining:**  A basic Proof-of-Work (PoW) mechanism to add new blocks.
